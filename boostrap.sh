@@ -68,10 +68,10 @@ common
 
 if [ $1 = "personal" ]; then
   personal
-else
+fi
 if [ $1 = "work" ]; then
   personal
-else
+fi
 if [ $1 = "torrents" ]; then
   personal
-else
+fi
